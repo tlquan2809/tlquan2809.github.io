@@ -422,7 +422,10 @@
   <footer class="wrap">
     <a class="brand" href="#"><span class="brand-mark" aria-hidden="true">✦</span><span>AxieDeck</span></a>
     <p>Fan-made and not affiliated with Sky Mavis or Axie Infinity.</p>
-    <p>© <span id="year">2026</span> AxieDeck</p>
+    <p>
+      © <span id="year">2026</span> AxieDeck
+      <a href="https://a-deck-0.flycricket.io/privacy.html">Privacy</a>
+    </p>
   </footer>
 </body>
 </html>
